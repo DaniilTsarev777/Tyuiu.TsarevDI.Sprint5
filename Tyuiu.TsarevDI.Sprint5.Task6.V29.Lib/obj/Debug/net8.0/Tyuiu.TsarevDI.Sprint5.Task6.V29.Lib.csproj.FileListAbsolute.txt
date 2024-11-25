@@ -1,0 +1,14 @@
+D:\repos\Tyuiu.TsarevDI.Sprint5\Tyuiu.TsarevDI.Sprint5.Task6.V29.Lib\bin\Debug\net8.0\Tyuiu.TsarevDI.Sprint5.Task6.V29.Lib.deps.json
+D:\repos\Tyuiu.TsarevDI.Sprint5\Tyuiu.TsarevDI.Sprint5.Task6.V29.Lib\bin\Debug\net8.0\Tyuiu.TsarevDI.Sprint5.Task6.V29.Lib.dll
+D:\repos\Tyuiu.TsarevDI.Sprint5\Tyuiu.TsarevDI.Sprint5.Task6.V29.Lib\bin\Debug\net8.0\Tyuiu.TsarevDI.Sprint5.Task6.V29.Lib.pdb
+D:\repos\Tyuiu.TsarevDI.Sprint5\Tyuiu.TsarevDI.Sprint5.Task6.V29.Lib\bin\Debug\net8.0\tyuiu.cources.programming.interfaces.dll
+D:\repos\Tyuiu.TsarevDI.Sprint5\Tyuiu.TsarevDI.Sprint5.Task6.V29.Lib\obj\Debug\net8.0\Tyuiu.TsarevDI.Sprint5.Task6.V29.Lib.csproj.AssemblyReference.cache
+D:\repos\Tyuiu.TsarevDI.Sprint5\Tyuiu.TsarevDI.Sprint5.Task6.V29.Lib\obj\Debug\net8.0\Tyuiu.TsarevDI.Sprint5.Task6.V29.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Tyuiu.TsarevDI.Sprint5\Tyuiu.TsarevDI.Sprint5.Task6.V29.Lib\obj\Debug\net8.0\Tyuiu.TsarevDI.Sprint5.Task6.V29.Lib.AssemblyInfoInputs.cache
+D:\repos\Tyuiu.TsarevDI.Sprint5\Tyuiu.TsarevDI.Sprint5.Task6.V29.Lib\obj\Debug\net8.0\Tyuiu.TsarevDI.Sprint5.Task6.V29.Lib.AssemblyInfo.cs
+D:\repos\Tyuiu.TsarevDI.Sprint5\Tyuiu.TsarevDI.Sprint5.Task6.V29.Lib\obj\Debug\net8.0\Tyuiu.TsarevDI.Sprint5.Task6.V29.Lib.csproj.CoreCompileInputs.cache
+D:\repos\Tyuiu.TsarevDI.Sprint5\Tyuiu.TsarevDI.Sprint5.Task6.V29.Lib\obj\Debug\net8.0\Tyuiu.Ts.515C8E11.Up2Date
+D:\repos\Tyuiu.TsarevDI.Sprint5\Tyuiu.TsarevDI.Sprint5.Task6.V29.Lib\obj\Debug\net8.0\Tyuiu.TsarevDI.Sprint5.Task6.V29.Lib.dll
+D:\repos\Tyuiu.TsarevDI.Sprint5\Tyuiu.TsarevDI.Sprint5.Task6.V29.Lib\obj\Debug\net8.0\refint\Tyuiu.TsarevDI.Sprint5.Task6.V29.Lib.dll
+D:\repos\Tyuiu.TsarevDI.Sprint5\Tyuiu.TsarevDI.Sprint5.Task6.V29.Lib\obj\Debug\net8.0\Tyuiu.TsarevDI.Sprint5.Task6.V29.Lib.pdb
+D:\repos\Tyuiu.TsarevDI.Sprint5\Tyuiu.TsarevDI.Sprint5.Task6.V29.Lib\obj\Debug\net8.0\ref\Tyuiu.TsarevDI.Sprint5.Task6.V29.Lib.dll
